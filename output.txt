@@ -1,0 +1,49 @@
+	Variables/Constants information
+TYPE	NAME	LOCATION	VALUE
+const vec structure patrat a6 global NULL
+vec structure dreptunghi a7 global NULL
+vec bool a10 desen NULL
+const vec bool a11 desen NULL
+bool a20 desen NULL
+const string a21 desen NULL
+int aaaa desen 1
+int bbbb desen aaaa
+float cccc desen NULL
+bool fl desen 3
+bool fl1 desen NULL
+bool fl2 desen NULL
+structure cerc global NULL
+vec string a8 cerc NULL
+const vec string a9 cerc NULL
+int b1 functie NULL
+int b2 functie NULL
+structure forma global NULL
+vec int fsdf global NULL
+float sdfs global true
+float fdfs global NULL
+int fsdfd global NULL
+const vec int a2 global NULL
+vec float a17 global NULL
+int fsdfsd global NULL
+int a global 17
+int gfdgfd global fsdfsd
+bool fsfd global 453
+int fsd global 453
+int fdsfs global NULL
+const vec float a10 global NULL
+vec char a4 global NULL
+const vec char a5 global NULL
+const float a14 dsada NULL
+char a12 dsada NULL
+char a12 sadasda NULL
+const string a13 sadasda NULL
+char a22 sadasda NULL
+char afs sadasda bfd
+char bfd sadasda NULL
+	Functions information
+RETURNED TYPE	NAME	TYPE OF PARAMETERS	LOCATION
+int desen vec bool const vec bool cerc
+int desen bool const string cerc
+int functie int int forma
+char dsada const float char global
+int sadasda char const string char global

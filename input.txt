@@ -1,0 +1,54 @@
+const vec structure patrat a6[100];
+vec structure dreptunghi a7[100];
+structure cerc {vec string a8[100],const vec string a9[100],int desen(vec bool a10[100],const vec bool a11[100]),int desen(bool a20,const string a21){
+    int aaaa;
+    int bbbb;
+    float cccc;
+    bool fl;
+    bool fl1;
+    bool fl2;
+    bbbb:=aaaa;
+    aaaa:=((1/3)-(2*(cccc+3)));
+    fl:=fl1 AND (!fl2);
+}
+};
+structure forma {
+    int functie(int b1,int b2)
+};
+vec int fsdf[100];
+float sdfs;
+float fdfs;
+int fsdfd;
+const vec int a2[100];
+vec float a17[100];
+int fsdfsd;
+int a;
+vec int v[12];
+int gfdgfd;
+bool fsfd;
+bool abc1;
+bool abc2;
+int fsd;
+int fdsfs;
+const vec float a10[100];
+vec char a4[100];
+const vec char a5[253];
+fn char dsada(const float a14,char a12);
+fn int sadasda(char a12,const string a13,char a22){
+    char afs;
+    int bfd;
+    afs:=bfd;
+};
+start_point
+sdfs:=65;
+gfdgfd:=fsdfsd;
+fsd:=453;
+fsfd:=fsdfd;
+a:=5;
+abc1:=true;
+abc2:=false;
+a:=(17*fsd)+(a-v[4].field1);
+fsfd:=(abc1<>abc2) OR (abc1 AND !abc2);
+a:=7;
+a:=5;
+end_point
